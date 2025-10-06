@@ -5,7 +5,7 @@
 The compliance team requested a **year-to-date (YTD) view** of sales audits, focuing on specific FCA related metrics such as customer vulnerability, remediation rates and certain compliance question pass rates. 
  
 All Commerical audit data is stored in a **Sharepoint List**, which contains thousands of records.
-However, the raw export includes all audit information (not just the compliance related fields) and significan cleaning and transformation was required prior to creating the report. 
+However, the raw export includes all audit information (not just the compliance related fields) and significant cleaning and transformation was required prior to creating the report. 
 
 
 ## Solution
@@ -36,4 +36,5 @@ However, the raw export includes all audit information (not just the compliance 
 
 ## Tech Stack
 - Python (pandas, openyxl)
+
 - Excel (dashboard creation, charts, formatting)
