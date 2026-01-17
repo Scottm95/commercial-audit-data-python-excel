@@ -30,7 +30,7 @@ Year-to-date (YTD) compliance reporting pack built from a SharePoint List contai
 - Provided a simple dashboard view for quick stakeholder reporting.
 
 ## Files
-- `Commercial Data 2025.xlsx` – cleaned datasets, KPI tables and dashboard
 - `Commercial_Dashboard_Screenshot.PNG` – dashboard screenshot
 - `Commercial_Clean_KPI_Script.py` – Python cleaning + KPI generation script
+
 
